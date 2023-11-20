@@ -13,11 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Computer Science',
+    title: 'Science',
     Svg: require('@site/static/img/science.svg').default,
     description: (
       <>
-        Computer and data science.
+        Computer and data science, remote sensing and geospatial engineering.
       </>
     ),
   },
