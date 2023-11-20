@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Writing Test",
+        "label": "Writing",
         "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
@@ -108,7 +108,7 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "Writing Test",
+      "title": "Writing",
       "description": "It recently occurred to me how much I've written. Between college, graduate studies and just throwing together a few paragraphs when I felt like it, I've unwittingly built quite a collection. But, what was the point? Words sitting in my electronic folder system don't do me (or anyone else) any good, so I've been going through the process of putting together a portfolio. A sizable amount of my work doesn't deserve to see the light of the internet, but I've been combing through ones with potential, cleaning them up and putting them into a logical order. Hopefully you get some use out of this writing.",
       "sidebar": "tutorialSidebar"
     },
