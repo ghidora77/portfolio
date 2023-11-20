@@ -121,26 +121,18 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-7f4": {
+  "/docs-fa3": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-8-dc-3da"
     }
   },
-  "/docs-30e": {
+  "/docs-4be": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-367": {
+  "/docs-cb6": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/category/tutorial---basics-d44": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
-  },
-  "/docs/category/tutorial---extras-f09": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -165,38 +157,6 @@
   "/docs/Science and Tech Policy/Article Review - Satellites and Politics-057": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-science-and-tech-policy-article-review-satellites-and-politics-7-ca-8ff"
-  },
-  "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
-  },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
-  "/docs/tutorial-basics/markdown-features-4b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
-  },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
-  },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
   "/docs/World War I/WWI_Review_01-498": {
     "__comp": "__comp---theme-doc-item-178-a40",
