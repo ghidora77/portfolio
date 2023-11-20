@@ -38,7 +38,7 @@
           },
           {
             "type": "link",
-            "label": "Book Review - WWI",
+            "label": "Book Review - Oxford Illustrated WWI",
             "href": "/docs/World War I/WWI_Review_03",
             "docId": "World War I/WWI_Review_03",
             "unlisted": false
@@ -156,7 +156,7 @@
     },
     "World War I/WWI_Review_03": {
       "id": "World War I/WWI_Review_03",
-      "title": "Book Review - WWI",
+      "title": "Book Review - Oxford Illustrated WWI",
       "description": "The Oxford Illustrated History of the First World War",
       "sidebar": "tutorialSidebar"
     },
