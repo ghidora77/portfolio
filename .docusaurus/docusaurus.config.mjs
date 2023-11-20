@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "title": "Writing Portfolio",
+  "tagline": "Miscellaneous writing across the board",
+  "favicon": "img/icon.ico",
+  "url": "https://www.ozzycampos.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "ghidora77",
+  "projectName": "portfolio",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/ghidora77/portfolio"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/ghidora77/portfolio"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -40,19 +40,19 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/icon.png",
     "navbar": {
-      "title": "My Site",
+      "title": "Loz Portfolio",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/icon.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Writing"
         },
         {
           "to": "/blog",
@@ -60,7 +60,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/ghidora77/portfolio",
           "label": "GitHub",
           "position": "right"
         }
@@ -74,7 +74,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Writing",
               "to": "/docs/intro"
             }
           ]
@@ -105,12 +105,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/ghidora77"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023, Built with Docusaurus."
     },
     "prism": {
       "theme": {
