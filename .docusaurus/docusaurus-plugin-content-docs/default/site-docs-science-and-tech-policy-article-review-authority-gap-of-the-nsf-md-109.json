@@ -1,0 +1,24 @@
+{
+  "id": "Science and Tech Policy/Article Review - Authority Gap of the NSF",
+  "title": "Article Review - Authority Gap of the National Science Foundation",
+  "description": "Review of Daniel Kleinman’s “Politics on the Endless Frontier: Postwar Research Policy in the United States.”",
+  "source": "@site/docs/Science and Tech Policy/Article Review - Authority Gap of the NSF.md",
+  "sourceDirName": "Science and Tech Policy",
+  "slug": "/Science and Tech Policy/Article Review - Authority Gap of the NSF",
+  "permalink": "/docs/Science and Tech Policy/Article Review - Authority Gap of the NSF",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Science and Tech Policy/Article Review - Authority Gap of the NSF.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Article Review - Economic Metrics",
+    "permalink": "/docs/Science and Tech Policy/Article Review - Economic Metrics"
+  }
+}

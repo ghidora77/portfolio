@@ -1,0 +1,20 @@
+{
+  "id": "Science and Tech Policy/Article Review - Satellites and Politics",
+  "title": "Article Review - Satellites and Politics",
+  "description": "Review of Lisa Price’s “Footprints of the Global South: RASCOM QAF/1R and Venesat-1 as Counter-Hegemonic Satellites.”",
+  "source": "@site/docs/Science and Tech Policy/Article Review - Satellites and Politics.md",
+  "sourceDirName": "Science and Tech Policy",
+  "slug": "/Science and Tech Policy/Article Review - Satellites and Politics",
+  "permalink": "/docs/Science and Tech Policy/Article Review - Satellites and Politics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Science and Tech Policy/Article Review - Satellites and Politics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Article Review - French Guiana and Space",
+    "permalink": "/docs/Science and Tech Policy/Article Review - French Guiana and Space"
+  }
+}

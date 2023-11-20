@@ -1,0 +1,24 @@
+{
+  "id": "Science and Tech Policy/Article Review - Economic Metrics",
+  "title": "Article Review - Economic Metrics",
+  "description": "In his 2018 book, The Growth Delusion: Wealth, Poverty and the Well-Being of Nations, David Pilling brings up provocative questions.",
+  "source": "@site/docs/Science and Tech Policy/Article Review - Economic Metrics.md",
+  "sourceDirName": "Science and Tech Policy",
+  "slug": "/Science and Tech Policy/Article Review - Economic Metrics",
+  "permalink": "/docs/Science and Tech Policy/Article Review - Economic Metrics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Science and Tech Policy/Article Review - Economic Metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Article Review - Authority Gap of the National Science Foundation",
+    "permalink": "/docs/Science and Tech Policy/Article Review - Authority Gap of the NSF"
+  },
+  "next": {
+    "title": "Article Review - French Guiana and Space",
+    "permalink": "/docs/Science and Tech Policy/Article Review - French Guiana and Space"
+  }
+}

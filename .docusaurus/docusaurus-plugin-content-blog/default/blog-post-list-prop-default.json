@@ -1,0 +1,30 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome",
+      "unlisted": false
+    },
+    {
+      "title": "Whiplash",
+      "permalink": "/blog/2017/06/01/",
+      "unlisted": false
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "permalink": "/blog/2016/05/01/zen",
+      "unlisted": false
+    },
+    {
+      "title": "Egypt - US Relations in 2016",
+      "permalink": "/blog/2016/04/01/egypt",
+      "unlisted": false
+    },
+    {
+      "title": "Creative Destruction",
+      "permalink": "/blog/2015/05/01/createive-destruction",
+      "unlisted": false
+    }
+  ]
+}

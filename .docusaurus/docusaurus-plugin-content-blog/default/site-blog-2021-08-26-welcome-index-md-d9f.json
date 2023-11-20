@@ -1,0 +1,22 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "Welcome",
+  "description": "Most of this writing is pretty miscellaneous - an idea gets into my head and I spend a half hour putting words down to extract some sort of meaning out of it. There really isn't a consistent theme, but the diversity of writing opens up new avenues of exploration.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "formattedDate": "August 26, 2021",
+  "tags": [],
+  "readingTime": 0.25,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Whiplash",
+    "permalink": "/blog/2017/06/01/"
+  }
+}
