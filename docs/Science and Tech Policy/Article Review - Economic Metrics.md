@@ -4,6 +4,7 @@ In his 2018 book, _The Growth Delusion: Wealth, Poverty and the Well-Being of Na
 - What is Gross Domestic Product (GDP)? 
 - How do we create metrics that provide insight? 
 - Can a metric exist when there is no data collection standard?
+
 In a world awash in data, metrics and computational methods, we still struggle to make good decisions for even simple problems. Pilling investigates the economic metrics society has built to quantify the world around us, and questions whether our long-held beliefs are leading us astray. The metrics we build and follow must support and uphold our shared values - if they do not, then we must create new guidelines. 
 
 Daniel Breslau wrote an article that researched the foundations of economics - _Economics Invents the Economy: Mathematics, Statistics, and Models in the Work of Irving Fisher and Wesley Mitchell_[^1], published in 2003 in the journal _Theory and Society_. The abstract references Irving Fisher and Wesley Mitchell’s crucial work developing statistical tools to add quantitative rigor to economics in the early twentieth century. Both Irving Fisher and Wesley Mitchell are well-known in the economics world, and it looked like it would compliment Pilling’s work. However, to say that I was disappointed with this paper would be an understatement. 
