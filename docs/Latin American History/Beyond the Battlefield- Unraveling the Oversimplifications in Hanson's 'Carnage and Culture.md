@@ -1,4 +1,7 @@
-# Beyond the Battlefield: Unraveling the Oversimplifications in Hanson's 'Carnage and Culture  
+# Carnage and Culture
+
+**_Beyond the Battlefield: Unraveling the Oversimplifications in Hanson's 'Carnage and Culture'_**
+
 In his book _Carnage and Culture_, Victor David Hanson argues that the Spanish conquest of the New World owed more to Europe's entrenched military tradition than to situational strategies and decisions. Hanson suggests that this deeply ingrained military tradition provided the Spaniards with substantial tactical advantages over the indigenous populations. The common theme in studies of the American conquest is that it was due to the role of Indian allies, European disease, and Cortes’ genius in manipulation of warring groups. Hanson, by contrast, argues that the long history of European martial life is overlooked, and this gave the Spaniards inherent abilities in bringing bloodshed to the New World. By contrast, historians such as Ross Hassig and Inga Clendinnen have extensively explored European warfare tactics, technology, and military tradition, offering a broader perspective. Significantly, Hanson’s insights on Spanish weaponry and tactics, which he presents as novel, actually build upon the foundational work of these earlier historians. 
 
 > Modern scholars who attribute the Castilians astounding success to cultural confusion, disease, native allies and a host of other subsidiary causes are reluctant to admit to the critical role of Western technological and military superiority. Perhaps they fear that such conclusions might imply Eurocentrism, or suggest Western mental and moral pre-eminence.

@@ -1,4 +1,6 @@
-## A Critical Examination of Liberation Theology's Socio-Economic Impact in Latin America
+# Liberation Theology
+
+**_A Critical Examination of Liberation Theology's Socio-Economic Impact in Latin America_**
 
 Phillip Berryman's _Liberation Theology_ delves into the evolution and influence of liberation theology in Latin America. He argues that to truly grasp its essence, one must approach it as a theological rather than political or revolutionary concept. Society should be restructured to support and understand the poor, allowing them to interpret scripture in a way that restores their sense of pride and dignity. His article aims to shed light on this philosophical framework and assess its potential long-term effects on Latin America.
 
